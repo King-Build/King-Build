@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋 I'm Xojiakbar</h1>
+<h1 align="center">Hi 👋 I'm Xojiakbar Sharobidinov</h1>
 
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-509.gif" height="350" alt="Welcome image" />
+  <img src="https://www.icegif.com/wp-content/uploads/2024/02/icegif-331.gif" height="400" alt="Welcome image" />
 </div>
-
-<h3 align="center">🌍 I'm a Frontend Developer from Uzbekistan</h3>
 
 <hr style="border: 0; height: 1px; background: #ddd; margin: 20px 0;" />
 
@@ -17,7 +15,6 @@
 - 🏆 My goal is to become a strong Full Stack Developer and work on international projects  
 - 🌱 Currently improving my skills in: `JavaScript`, `React`, `Tailwind`, and `Git`  
 
-<br />
 
 <hr style="border: 0; height: 1px; background: #ddd; margin: 20px 0;" />
 
