@@ -62,10 +62,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #ff69b4);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #f0db4f);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #61dafb);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #8a2be2);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #38bdf8);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #f1502f);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #a259ff);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" style="margin: 8px; filter: drop-shadow(0 0 8px #38bdf8);" />
 </div>
 
 <br />
