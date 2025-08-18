@@ -33,16 +33,16 @@
 </h2> 
 <br/>
 
-![html5](https://readmecodegen.vercel.app/api/social-icon?name=html5&animation=glow&animationDuration=5)
-![css3](https://readmecodegen.vercel.app/api/social-icon?name=css3&animation=glow&animationDuration=5)
-![bootstrap](https://readmecodegen.vercel.app/api/social-icon?name=bootstrap&animation=glow&animationDuration=5)
-![sass](https://readmecodegen.vercel.app/api/social-icon?name=sass&animation=glow&animationDuration=5)
+![html5](https://readmecodegen.vercel.app/api/social-icon?name=html5&animation=glow&animationDuration=1)
+![css3](https://readmecodegen.vercel.app/api/social-icon?name=css3&animation=glow&animationDuration=2)
+![bootstrap](https://readmecodegen.vercel.app/api/social-icon?name=bootstrap&animation=glow&animationDuration=3)
+![sass](https://readmecodegen.vercel.app/api/social-icon?name=sass&animation=glow&animationDuration=4)
 ![javascript](https://readmecodegen.vercel.app/api/social-icon?name=javascript&animation=glow&animationDuration=5)
-![figma](https://readmecodegen.vercel.app/api/social-icon?name=figma&animation=glow&animationDuration=5&color=%233b82f6)
-![vite](https://readmecodegen.vercel.app/api/social-icon?name=vite&animation=glow&color=%23f59e0b)
-![react](https://readmecodegen.vercel.app/api/social-icon?name=react&animation=glow)
-![tailwindcss](https://readmecodegen.vercel.app/api/social-icon?name=tailwindcss&animation=glow)
-![firebase](https://readmecodegen.vercel.app/api/social-icon?name=firebase&animation=glow)
+![figma](https://readmecodegen.vercel.app/api/social-icon?name=figma&animation=glow&animationDuration=4&color=%233b82f6)
+![vite](https://readmecodegen.vercel.app/api/social-icon?name=vite&animation=glow&animationDuration=3)
+![react](https://readmecodegen.vercel.app/api/social-icon?name=react&animation=glow&animationDuration=2)
+![tailwindcss](https://readmecodegen.vercel.app/api/social-icon?name=tailwindcss&animation=glow&animationDuration=1)
+![firebase](https://readmecodegen.vercel.app/api/social-icon?name=firebase&animation=glow&animationDuration=3)
 
 <br/>
 
@@ -52,13 +52,13 @@
 </h2> 
 <p>
   <a href="https://open.spotify.com/playlist/1F8nS6rCkwV7Rh5leIOz3n?si=08cffccee73942de">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=spotify&size=48&animation=glow&animationDuration=5" alt="spotify" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=spotify&size=48&animation=glow&animationDuration=2" alt="spotify" />
   </a>
   <a href="[https://linkedin.com/](https://www.linkedin.com/in/xojiakbar-sharobidinov-699b3337a/)">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=48&animation=glow&animationDuration=5" alt="linkedin" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=48&animation=glow&animationDuration=3" alt="linkedin" />
   </a>
   <a href="https://instagram.com/xojiakbar_1hp">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=48&animation=glow&animationDuration=5" alt="instagram" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=48&animation=glow&animationDuration=4" alt="instagram" />
   </a>
   <a href="https://t.me/UZBEKK1NG">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&size=48&animation=glow&animationDuration=5" alt="telegram" />
