@@ -1,7 +1,7 @@
 <!-- Gojo-Styled README.md with Purple GitHub Stats and Neon Icons -->
-<h1 align="start" style="color:#8a2be2; text-shadow: 0 0 15px #00ffff;">
+<h1 align="start"">
 
-![user](https://readmecodegen.vercel.app/api/social-icon?name=user&size=24&animation=glow&animationDuration=5) Frontend Developer
+![user](https://readmecodegen.vercel.app/api/social-icon?name=user&size=24&animation=glow&animationDuration=5) Mr.K1NG 么
 </h1>
 
 <img src="https://www.icegif.com/wp-content/uploads/2024/02/icegif-331.gif" height="500" alt="Welcome image" />
@@ -20,7 +20,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=King-Build&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Build&layout=compact&theme=midnight-purple" height="220" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Build&layout=compact&theme=midnight-purple" height="auto" />
     </td>
   </tr>
 </table>
@@ -51,17 +51,17 @@
 ![bookmark](https://readmecodegen.vercel.app/api/social-icon?name=bookmark&size=24&animation=glow&animationDuration=5&color=%238b5cf6) Contact Me
 </h2> 
 <p>
-  <a href="https://linkedin.com/">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=50&animation=glow&animationDuration=5" alt="linkedin" />
+  <a href="https://open.spotify.com/playlist/1F8nS6rCkwV7Rh5leIOz3n?si=08cffccee73942de">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=spotify&size=48&animation=glow&animationDuration=5" alt="spotify" />
+  </a>
+  <a href="[https://linkedin.com/](https://www.linkedin.com/in/xojiakbar-sharobidinov-699b3337a/)">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=48&animation=glow&animationDuration=5" alt="linkedin" />
   </a>
   <a href="https://instagram.com/xojiakbar_1hp">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=50&animation=glow&animationDuration=5" alt="instagram" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=48&animation=glow&animationDuration=5" alt="instagram" />
   </a>
   <a href="https://t.me/UZBEKK1NG">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&size=50&animation=glow&animationDuration=5" alt="telegram" />
-  </a>
-  <a href="https://open.spotify.com/">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=spotify&size=50&animation=glow&animationDuration=5" alt="spotify" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&size=48&animation=glow&animationDuration=5" alt="telegram" />
   </a>
 </p>
 
