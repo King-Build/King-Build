@@ -38,8 +38,6 @@
 ![bootstrap](https://readmecodegen.vercel.app/api/social-icon?name=bootstrap&animation=glow&animationDuration=3)
 ![sass](https://readmecodegen.vercel.app/api/social-icon?name=sass&animation=glow&animationDuration=4)
 ![javascript](https://readmecodegen.vercel.app/api/social-icon?name=javascript&animation=glow&animationDuration=5)
-![figma](https://readmecodegen.vercel.app/api/social-icon?name=figma&animation=glow&animationDuration=4&color=%233b82f6)
-![vite](https://readmecodegen.vercel.app/api/social-icon?name=vite&animation=glow&animationDuration=3)
 ![react](https://readmecodegen.vercel.app/api/social-icon?name=react&animation=glow&animationDuration=2)
 ![tailwindcss](https://readmecodegen.vercel.app/api/social-icon?name=tailwindcss&animation=glow&animationDuration=1)
 ![firebase](https://readmecodegen.vercel.app/api/social-icon?name=firebase&animation=glow&animationDuration=3)
