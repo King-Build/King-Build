@@ -1,8 +1,9 @@
 <h1 align="start">
 
-[![user](https://readmecodegen.vercel.app/api/social-icon?name=user&size=24&animation=glow&animationDuration=5)Portfolio -> KING-Build](https://king-build.netlify.app/)
-
+![user](https://readmecodegen.vercel.app/api/social-icon?name=user&size=24&animation=glow&animationDuration=5) KING-Build  
+[![Go to Portfolio](https://img.shields.io/badge/Go%20to-Portfolio-blue?style=for-the-badge)](https://king-build.netlify.app/)
 </h1>
+
 
 <img src="https://www.icegif.com/wp-content/uploads/2024/02/icegif-331.gif" height="500" alt="Welcome image" />
 
